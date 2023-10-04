@@ -10,6 +10,10 @@ public class ClasseA {
         A1 = a1;
     }
 
+    public int getsoma(int a, int b){
+        return a + b;
+    }
+
     public float getA2() {
         return A2;
     }
