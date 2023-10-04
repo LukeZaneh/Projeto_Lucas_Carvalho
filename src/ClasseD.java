@@ -28,13 +28,8 @@ public class ClasseD {
 
     }
 
-<<<<<<< HEAD
     public void MD3() {
         System.out.println("MD3");
-=======
-    public void MD4() {
-        System.out.println("MD4");
->>>>>>> f4e23a5f3af7867a3f6a26da1765ad87aad52142
     }
     
 }
